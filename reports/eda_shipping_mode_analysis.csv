@@ -1,0 +1,5 @@
+shipping_mode,total_orders,late_orders,late_delivery_rate
+First Class,9602,9602,100.0
+Second Class,12256,9803,79.99
+Same Day,3407,1648,48.37
+Standard Class,37632,14995,39.85

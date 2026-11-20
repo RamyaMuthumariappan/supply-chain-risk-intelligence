@@ -1,0 +1,36 @@
+
+# Raw dataset
+data/raw/DataCoSupplyChainDataset.csv
+
+# Intermediate cleaned data containing customer identifiers
+data/processed/orders_cleaned.csv
+
+# Reports containing customer identifiers
+reports/order_consistency_report.csv
+
+# Trained model files (large binary files)
+models/*.pkl
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.log
+*.tmp
