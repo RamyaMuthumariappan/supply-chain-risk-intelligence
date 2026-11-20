@@ -184,11 +184,10 @@ supply-chain-risk-intelligence/
 │   └── business_analysis.sql
 │
 ├── powerbi/
-│   └── Supply_Chain_Risk_Intelligence.pbix
+│   └── supply_chain_dashboard.pbix
 │
 ├── reports/
 │
-├── models/
 │
 ├── requirements.txt
 └── README.md
@@ -199,7 +198,7 @@ supply-chain-risk-intelligence/
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/RamyaMuthumariappan/supply-chain-risk-intelligence.git
 ```
 
 Navigate to the project directory:
